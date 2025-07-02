@@ -20,6 +20,26 @@
 | 2024.07 \~ 2024.08       | NHN 아카데미 Java Classic 2기 | - Java, Servlet, JSP 기초<br>- 웹 프로그래밍 및 전산학 초급 학습<br>- 알고리즘, 자료구조 집중 훈련           |
 | 2024.09.02 \~ 2025.06.12 | NHN Academy AIoT 2기 부트캠프 | - Spring, JPA, MSA 백엔드 아키텍처 학습<br>- Flow Based IoT 시스템 설계<br>- 쇼핑몰 & 블로그 프로젝트 경험 |
 
+---
+
+## 🏢 Pangyo Coffee Legends - 스마트 오피스 AIoT 시스템
+
+> **“1년 뒤 판교 스타벅스에서 모이자!”**  
+> AI + IoT 기반의 스마트 오피스 환경 구축 프로젝트
+
+AI 분석, IoT 센서, 환경 제어, 근태 관리, 회의실 예약 등  
+**실시간 스마트 오피스 운영 전반을 통합 설계**한 MSA 기반 프로젝트입니다.
+
+### ✨ 주요 기능 요약
+
+- 환경 센싱 → InfluxDB 저장 → 쾌적도 분석
+- 출입 기반 근태 분석 및 이상 감지
+- 회의실 예약/입실/노쇼 통합 관리
+- 실시간 채팅 및 알림 시스템
+- 로그 수집 및 Kibana 시각화 (ELK 스택)
+
+> 📌 자세한 내용과 아키텍처, 기술 스택, 팀 구성은 [Pangyo Coffee Legends GitHub](https://github.com/nhnacademy-aiot2-pangyo-coffee-legends)에서 확인해주세요!
+
 ## 🛠️ 기술 스택
 
 ### 💻 Backend
