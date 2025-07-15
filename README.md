@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F740&width=435&lines=Welcome+to+my+repository%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33BEF7&width=435&lines=Welcome+to+my+Profile%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 
@@ -17,9 +17,12 @@
 | 📅 기간                    | 🏫 활동                          | 📌 세부 내용                                                                                   |
 |---------------------------|-----------------------------------|----------------------------------------------------------------------------------------------|
 | 2019.03 ~ 2025.02         | 신라대학교 일본어학과 졸업               | - 전공 언어 기반의 커뮤니케이션 능력 습득<br>- 문해력·표현력 기반 문제 해결 역량 개발                        |
-| 2020.01 ~ 2021.08         | 육군 제28보병사단 81mm 박격포병 근무     | - 육군 병장 만기 전역                                          |
-| 2024.07 ~ 2024.08         | NHN 아카데미 Java Classic 2기     | - Java, Servlet, JSP 기초<br>- 웹 프로그래밍 및 전산학 초급 학습<br>- 알고리즘, 자료구조 집중 훈련        |
-| 2024.09.02 ~ 2025.06.12   | NHN Academy AIoT 2기 부트캠프     | - Spring, JPA, MSA 백엔드 아키텍처 학습<br>- Flow Based IoT 시스템 설계<br>- 쇼핑몰 & 블로그 프로젝트 경험 |
+| 2023.01 ~ 2023.12         | 신라대학교 일본어학과 부학회장          | - 일본어학과 학생회 주요 행사 기획 및 운영<br>- 학과 커뮤니티 및 학생 간 원활한 소통 지원                    |
+| 2020.01 ~ 2021.08         | 육군 제28보병사단 81mm 박격포병 근무     | - 병장 만기 전역<br>- 팀워크와 책임감 중심의 조직 생활 경험                                     |
+| 2024.07 ~ 2024.08         | NHN 아카데미 Java Classic 2기     | - Java, Servlet, JSP 기초 학습<br>- 웹 프로그래밍 및 전산학 기초<br>- 알고리즘 및 자료구조 집중 훈련        |
+| 2024.09.02 ~ 2025.06.12   | NHN Academy AIoT 2기 부트캠프     | - Spring, JPA, MSA 기반 백엔드 아키텍처 학습<br>- Flow Based IoT 시스템 설계 및 개발<br>- 쇼핑몰 및 블로그 프로젝트 수행 |
+| 2025.07 ~ 진행 중         | 삼성청년SW·AI아카데미(SSAFY) 14기 | - Python 기반 알고리즘, 웹 개발, 문제 해결, AI 프로젝트 중심 실무형 심화 교육 과정 이수 중<br>- AIoT 무인주행 시스템, 멀티모달 LLM, 이미지 캡셔닝, 생성형 AI 기반 SNS 등 다양한 AI 특화 프로젝트 수행|
+
 
 
 ---
@@ -40,7 +43,6 @@
 
 ### 🗃️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 🌐 Web / API
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white)
@@ -53,7 +55,6 @@
 ### 🛠️ Tools & IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
