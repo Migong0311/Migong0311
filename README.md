@@ -5,8 +5,8 @@
 ## 👨🏻‍💻 소개
 
 - 🔍 **관심 분야**: 백엔드 개발, 시스템 아키텍처 설계, 서비스 자동화
-- 🧠 **현재 학습 중**: Spring Boot 기반 MSA, JWT 인증, RESTful API 설계
-- 🤝 **협업 희망**: 오픈소스 백엔드 프로젝트, API 및 보안 관련 프로젝트
+- 🧠 **현재 학습 중**: Python 기반 알고리즘 기술 및 문제 해결, Spring Boot 기반 MSA 아키텍처,RESTful API 설계
+- 🤝 **협업 희망**: Python·Java 기반 백엔드 및 알고리즘 프로젝트, 오픈소스 백엔드 개발, API 설계 및 보안 강화 프로젝트
 - 📫 **연락 방법**: [kimms000311@gmail.com](mailto:kimms000311@gmail.com)
 - 💡 **특이사항**: 일본어 전공에서 백엔드 개발자로 커리어 전환 — 매 순간이 즐겁습니다!
 
@@ -35,40 +35,41 @@
 
 ## 🛠️ 기술 스택
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+## 📦 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🗃️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web / API
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=api&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+## 🌐 Web / API
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 💡 Language
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## 💡 Language
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ Tools & IDE
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## 🛠 Tools & IDE
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🖥️ OS 환경
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+## 💻 OS 환경
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 📈 GitHub 활동
 
-![Migong0311's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migong0311&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migong0311&layout=compact&theme=vue-dark)
+![Migong0311's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migong0311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migong0311&layout=donut&theme=radical&hide_border=true&bg_color=00000000)
+
 
 ---
 
