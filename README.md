@@ -25,7 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=TIL&theme=tokyonight)](https://github.com/Migong0311/TIL)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=ssafy-algorithm&theme=tokyonight)](https://github.com/Migong0311/ssafy-algorithm)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=Migong_BaekJun&theme=tokyonight)](https://github.com/Migong0311/Migong_BaekJun)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=python_baekjoon&theme=tokyonight)](https://github.com/Migong0311/python_baekjoon)
 
 ---
 
