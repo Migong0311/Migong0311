@@ -23,53 +23,39 @@
 ## 📌 Pinned Repositories
 > 주요 프로젝트를 상단 고정하여 포트폴리오처럼 활용합니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=TIL&theme=tokyonight)](https://github.com/Migong0311/TIL)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=ssafy-algorithm&theme=tokyonight)](https://github.com/Migong0311/ssafy-algorithm)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=python_baekjoon&theme=tokyonight)](https://github.com/Migong0311/python_baekjoon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=TIL&theme=tokyonight)](https://github.com/Migong0311/TIL)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=ssafy-algorithm&theme=tokyonight)](https://github.com/Migong0311/ssafy-algorithm)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=python_baekjoon&theme=tokyonight)](https://github.com/Migong0311/python_baekjoon)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 📦 Backend  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+ ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ### 🗄 Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### 🌐 Web / API  
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)  
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### 💡 Language  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 ### 🛠 Tools & IDE  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 ### 💻 OS  
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
 ---
 
 ## 📊 GitHub & Algorithm Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migong0311&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migong0311&layout=donut&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migong0311&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migong0311&layout=donut&theme=radical&hide_border=true)  
 
 ### 🏆 Baekjoon Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms000311)](https://solved.ac/kms000311/)  
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms000311&theme=warm)](https://solved.ac/kms000311/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms000311)](https://solved.ac/kms000311/)  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms000311&theme=warm)](https://solved.ac/kms000311/)  
 
 ---
 
