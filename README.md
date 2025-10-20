@@ -23,7 +23,7 @@
 ## 📌 Pinned Repositories
 > 주요 프로젝트를 상단 고정하여 포트폴리오처럼 활용합니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=TIL&theme=tokyonight)](https://github.com/Migong0311/TIL)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=ssafy-algorithm&theme=tokyonight)](https://github.com/Migong0311/ssafy-algorithm)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=python_baekjoon&theme=tokyonight)](https://github.com/Migong0311/python_baekjoon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=TIL&theme=tokyonight)](https://github.com/Migong0311/TIL)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=ssafy-algorithm&theme=tokyonight)](https://github.com/Migong0311/ssafy-algorithm)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=python_baekjoon&theme=tokyonight)](https://github.com/Migong0311/python_baekjoon) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Migong0311&repo=Migong0311.github.io&theme=tokyonight)](https://github.com/Migong0311/Migong0311.github.io)
 
 ---
 
