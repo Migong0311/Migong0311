@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me
 - 🔍 **관심 분야**: 백엔드 개발 · 시스템 아키텍처 설계 · 서비스 자동화
-- 🧠 **학습 중**: Python 기반 알고리즘 문제 해결, Spring Boot MSA 아키텍처, RESTful API 설계
+- 🧠 **학습 중**: Python 기반 알고리즘 문제 해결, Spring Boot MSA 아키텍처, Django를 통한 RESTful API 설계
 - 🤝 **협업 희망**: Python·Java 기반 백엔드 & 알고리즘 프로젝트, 오픈소스 개발, API & 보안 강화 프로젝트
 - 📫 **연락처**: [kimms000311@gmail.com](mailto:kimms000311@gmail.com)  
 - 💡 **특이사항**: 일본어 전공 → 백엔드 개발자 전향, 매 순간이 즐겁습니다!
@@ -29,30 +29,71 @@
 
 ## 🛠 Tech Stack
 
-### 📦 Backend  
- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🎨 Frontend
 
-
-### 🗄 Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-### 🌐 Web / API  
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### 💡 Language  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-
-### 🛠 Tools & IDE  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
-
-### 💻 OS  
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
 
 ---
 
+### 📦 Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+---
+
+### 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+---
+
+### 🌐 Web / API
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+
+---
+
+### 💡 Language
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+---
+
+### 🛠 Tools & IDE
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+
+---
+
+### 💻 OS
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+
+---
+
+
 ## 📊 GitHub & Algorithm Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Migong0311&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migong0311&layout=donut&theme=radical&hide_border=true)  
+
+### 💻 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Migong0311&show_icons=true&theme=tokyonight)
+
+### 🌈 Most Used Languages
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Migong0311&layout=compact&theme=tokyonight)
+
 
 ### 🏆 Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms000311)](https://solved.ac/kms000311/)  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms000311&theme=warm)](https://solved.ac/kms000311/)  
