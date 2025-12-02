@@ -1,19 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33BEF7&width=435&lines=Welcome+to+my+Profile;Backend+Developer+Kim+Miseong)](https://git.io/typing-svg)
 
-<div align="center">
-
-<img src="https://github.com/Migong0311/Migong0311/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-
-<br/>
-
-<a href="https://migong0311.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Migong0311.github.io-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:kimms000311@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kimms000311@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -85,9 +71,25 @@
 </div>
 
 ---
+<img src="https://github.com/Migong0311/Migong0311/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 <div align="center">
   <br>
   Designed to solve problems, Built to scale.<br>
   ⓒ 2025. Kim Misung. All rights reserved.
 </div>
+<div align="center">
+
+
+
+<br/>
+
+<a href="https://migong0311.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Migong0311.github.io-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:kimms000311@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kimms000311@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
