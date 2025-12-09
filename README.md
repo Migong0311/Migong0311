@@ -77,7 +77,7 @@
 <div align="center">
   <br>
   Designed to solve problems, Built to scale.<br>
-  ⓒ 2025. Kim Misung. All rights reserved.
+  ⓒ 2025. Kim Miseong. All rights reserved.
 </div>
 <div align="center">
 
