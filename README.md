@@ -15,7 +15,6 @@
 - **Current Focus**: Vue.js(Frontend)와 RESTful API(Backend)의 효율적인 연동 및 비동기 데이터 처리
 - **Goal**: 안정적이고 확장 가능한 백엔드 시스템 구축 및 오픈소스 기여
 
-
 ---
 
 ## 🚀 Featured Projects & Portfolio
