@@ -28,7 +28,7 @@
 
 | 프로젝트 / 포트폴리오 | 설명 및 기술 스택 | 링크 |
 |:---:|:---|:---:|
-| **Tech Portfolio** | **[개인 포트폴리오 및 기술 블로그]**<br>학습한 기술(TIL) 정리 및 프로젝트 회고, 알고리즘 풀이 기록을 담고 있습니다. | [![Portfolio](https://img.shields.io/badge/View_Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://migong0311.github.io/) |
+| **Tech Portfolio** | **[개인 포트폴리오 및 기술 블로그]**<br>학습한 기술(TIL) 정리 및 프로젝트 회고, 알고리즘 풀이 기록을 담고 있습니다. | [![Portfolio](https://img.shields.io/badge/View_Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://migong0311.github.io/#projects) |
 | **Pangyo Coffee Legends** | **[NHN Academy 팀 프로젝트]**<br>Spring Boot 기반의 MSA 시스템 구축 프로젝트입니다.<br>• **Role**: 백엔드 API 설계, DB 모델링, 결제 모듈 연동 | [![Project](https://img.shields.io/badge/View_Repository-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/nhnacademy-aiot2-pangyo-coffee-legends) |
 
 ---
