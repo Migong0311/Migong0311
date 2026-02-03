@@ -24,7 +24,7 @@
 |:---:|:---|:---:|
 | **FIT-BOSS (핏보스)** | **[AIoT 기반 스마트 피트니스 플랫폼]**<br>esp32 근전도 센서 데이터를 활용한 실시간 운동 코칭 및 게이미피케이션 서비스입니다.<br>• **Tech**: Python(FastAPI), Unity(C#), WebSocket, Docker, Jenkins, Nginx<br>• **Role**: 실시간 데이터 파이프라인 구축, CI/CD 자동화, 게임-서버 통신 최적화 | <!-- [![Project](https://img.shields.io/badge/View_Repository-005571?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Migong0311) --> **진행중** |
 | **Fin:D (핀디)** | **[SSAFY 금융 관통 프로젝트]**<br>사회초년생을 위한 AI 기반 맞춤형 금융 비서 및 예적금 추천 서비스입니다.<br>• **Tech**: Vue.js 3, Django DRF, OpenAI API, Pandas<br>• **Role**: 풀스택 개발, AI 챗봇/지도 API 연동, 추천 알고리즘 구현 | [![Project](https://img.shields.io/badge/View_Repository-3776AB?style=flat-square&logo=django&logoColor=white)](https://github.com/Migong0311/Fin-D-ssafy-project) |
-| **Pangyo Coffee Legends** | **[NHN Academy 팀 프로젝트]**<br>Spring Boot 기반의 MSA 시스템 구축 프로젝트입니다.<br>• **Tech**: Spring Cloud, JPA, MySQL, Redis<br>• **Role**: 백엔드 API 설계, DB 모델링, 결제 모듈 연동 | [![Project](https://img.shields.io/badge/View_Repository-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/nhnacademy-aiot2-pangyo-coffee-legends) |
+| **Pangyo Coffee Legends** | **[AIoT 스마트 오피스 프로젝트]**<br>Spring Boot 기반의 MSA 시스템 구축 프로젝트입니다.<br>• **Tech**: Spring Cloud, JPA, MySQL, Redis<br>• **Role**: 백엔드 API 설계, DB 모델링, 결제 모듈 연동 | [![Project](https://img.shields.io/badge/View_Repository-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/nhnacademy-aiot2-pangyo-coffee-legends) |
 | **Tech Portfolio** | **[기술 블로그 및 TIL]**<br>학습한 기술(TIL) 정리 및 프로젝트 회고, 알고리즘 풀이 기록을 담고 있습니다. | [![Portfolio](https://img.shields.io/badge/View_Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://migong0311.github.io/#projects) |
 
 ---
