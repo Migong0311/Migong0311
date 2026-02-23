@@ -60,7 +60,7 @@
 
 | 기간 | 기관 및 활동 | 주요 학습 내용 |
 |:---:|:---|:---|
-| **2025.07 ~ 진행 중** | **SSAFY (Samsung SW•AI Academy For Youth) 14기** | • Python 알고리즘 및 컴퓨팅 사고력 심화<br>• Vue.js & Django 기반 웹 애플리케이션 개발<br>• AIoT 융합 프로젝트 및 임베디드 통신 학습 |
+| **2025.07 ~ 2025.12** | **SSAFY (Samsung SW•AI Academy For Youth) 14기** | • Python 알고리즘 및 컴퓨팅 사고력 심화<br>• Vue.js & Django 기반 웹 애플리케이션 개발<br>• AIoT 융합 프로젝트 및 임베디드 통신 학습 |
 | **2024.09 ~ 2025.06** | **NHN Academy AIoT 2기** | • Java, Spring Boot, JPA를 활용한 백엔드 심화<br>• MSA(Microservices Architecture) 설계 및 구축 경험 |
 | **2019.03 ~ 2025.02** | **신라대학교 일본어학과 졸업** | • 인문학적 소양 및 비즈니스 커뮤니케이션 능력 함양 |
 
